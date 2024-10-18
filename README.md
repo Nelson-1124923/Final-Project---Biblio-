@@ -25,3 +25,5 @@ Un sistema de gestión de biblioteca desarrollado en C# .NET que permite a los u
 * Modelos: Clases que representan los datos.
 * Vistas: Interfaz gráfica.
 * Controladores: Lógica de negocio y conexión con la base de datos.
+
+![image](https://github.com/user-attachments/assets/73f21db8-6db9-48cd-a384-efecfb24b572)
